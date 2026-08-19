@@ -28,14 +28,6 @@ Computer Engineer (**Top 2.9% nationwide in the CENEVAL Exam** and Honors Gradua
 
 ---
 
-### Featured Projects
-
-*   [**Homelab**](https://github.com/EduardoDeLaCruzChavez/Homelab) — Centralized self-hosted infrastructure using Nginx reverse proxy, Docker, PostgreSQL, Authelia (2FA), and GetHomepage for resource monitoring and critical services.
-*   [**Dispatch RP**](https://dispatch-rp.vercel.app/) — Collaborative full-stack web platform built with Vue.js and Express, featuring atomic components, Docker production deployment, and version control management.
-*   [**Network Monitoring System (NMS)**](https://github.com/EduardoDeLaCruzChavez/notification) — Backend IoT solution in C and ESP-IDF for OpenWrt routers, implementing SNMP protocol and SQL databases for real-time performance auditing.
-
----
-
 ### Academic Honors & Awards
 
 *   **CENEVAL Award for Excellence Performance:** Top 2.9% nationwide in the Computer Engineering EGEL exam.
