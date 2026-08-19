@@ -28,13 +28,6 @@ Computer Engineer (**Top 2.9% nationwide in the CENEVAL Exam** and Honors Gradua
 
 ---
 
-### Academic Honors & Awards
-
-*   **CENEVAL Award for Excellence Performance:** Top 2.9% nationwide in the Computer Engineering EGEL exam.
-*   **Honors and Excellence Recognition:** Awarded by the Autonomous University of Baja California (UABC) for outstanding performance in the General Exit Exam.
-
----
-
 ### Let's Connect
 
 *   💼 **LinkedIn:** [Eduardo De La Cruz](www.linkedin.com/in/jeduardo-chavez)
